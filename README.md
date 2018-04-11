@@ -1,7 +1,7 @@
 # yetiProc
 Katana macro for rendering Yeti procedurals
 
-.. image:: https://raw.githubusercontent.com/wiremas/yetiProc/master/res/yetiProcParams.png
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 # Features
 Render Yeti procedurals in
