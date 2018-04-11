@@ -21,5 +21,4 @@ Render Yeti procedurals in
 - motion block samples
 
 # Usage
-- Copy the ``yetiProc.macro`` in your $KATANA_RESOURCES/Macros and restart Katana
-- Create the macro by hitting ``tab`` and typing ``yetiMacro``
+- Copy the ``yetiProc.macro`` in your $KATANA_RESOURCES/Macros directory and restart Katana
